@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[典草堂]]></title>
+  <link href="http://willcottage.github.io/atom.xml" rel="self"/>
+  <link href="http://willcottage.github.io/"/>
+  <updated>2014-06-02T09:34:27+08:00</updated>
+  <id>http://willcottage.github.io/</id>
+  <author>
+    <name><![CDATA[Will]]></name>
+    <email><![CDATA[cavalry001@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[写下第二篇]]></title>
+    <link href="http://willcottage.github.io/blog/2014/05/31/xie-xia-di-er-pian/"/>
+    <updated>2014-05-31T17:57:38+08:00</updated>
+    <id>http://willcottage.github.io/blog/2014/05/31/xie-xia-di-er-pian</id>
+    <content type="html"><![CDATA[<p>写下第二篇文章.这是一篇测试文章.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[初创典草堂]]></title>
+    <link href="http://willcottage.github.io/blog/2014/05/31/chu-chuang-dian-cao-tang/"/>
+    <updated>2014-05-31T17:26:36+08:00</updated>
+    <id>http://willcottage.github.io/blog/2014/05/31/chu-chuang-dian-cao-tang</id>
+    <content type="html"><![CDATA[<p>即日起,will的博客就在github安家落户了,不为金银,不求声名,记录点滴生活,以助己循序渐进,倘若还有那么一两位过客能获得些许益处,那便是will的万分荣幸.</p>
+]]></content>
+  </entry>
+  
+</feed>
