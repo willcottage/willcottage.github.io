@@ -4,7 +4,7 @@
   <title><![CDATA[典草堂]]></title>
   <link href="http://willcottage.github.io/atom.xml" rel="self"/>
   <link href="http://willcottage.github.io/"/>
-  <updated>2014-06-02T09:34:27+08:00</updated>
+  <updated>2014-06-02T11:03:47+08:00</updated>
   <id>http://willcottage.github.io/</id>
   <author>
     <name><![CDATA[Will]]></name>
@@ -14,11 +14,21 @@
 
   
   <entry>
+    <title type="html"><![CDATA[写下第三篇]]></title>
+    <link href="http://willcottage.github.io/blog/2014/06/02/xie-xia-di-san-pian/"/>
+    <updated>2014-06-02T10:35:46+08:00</updated>
+    <id>http://willcottage.github.io/blog/2014/06/02/xie-xia-di-san-pian</id>
+    <content type="html"><![CDATA[<p>图片测试.
+<img src="http://willcottage.github.io/assets/blogImage/ceshi.png" alt="ceshi" /></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[写下第二篇]]></title>
     <link href="http://willcottage.github.io/blog/2014/05/31/xie-xia-di-er-pian/"/>
     <updated>2014-05-31T17:57:38+08:00</updated>
     <id>http://willcottage.github.io/blog/2014/05/31/xie-xia-di-er-pian</id>
-    <content type="html"><![CDATA[<p>写下第二篇文章.这是一篇测试文章.</p>
+    <content type="html"><![CDATA[<p>这一片博客排版测试文章,用于测试博客的排版,以区分概览和正文.</p>
 ]]></content>
   </entry>
   
