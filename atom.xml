@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[银色blues的博客]]></title>
   <link href="http://willcottage.github.io/atom.xml" rel="self"/>
   <link href="http://willcottage.github.io/"/>
-  <updated>2014-07-19T12:03:20+08:00</updated>
+  <updated>2014-07-19T14:51:24+08:00</updated>
   <id>http://willcottage.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[银色blues]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
